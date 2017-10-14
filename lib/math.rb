@@ -27,4 +27,3 @@ def order_of_operation(num1, num2, num3, num4)
   num1 + ((num2 * num3) / num4)
 end
 
-puts (2028 % 100) % 100
